@@ -1,7 +1,6 @@
 pm uninstall -k --user 0 android.autoinstalls.config.xioami.mibox3
 pm uninstall -k --user 0 com.android.backupconfirm
 pm uninstall -k --user 0 com.android.camera2
-pm uninstall -k --user 0 com.android.defcontainer
 pm uninstall -k --user 0 com.android.dreams.basic
 pm uninstall -k --user 0 com.android.htmlviewer
 pm uninstall -k --user 0 com.android.onetimeinitializer

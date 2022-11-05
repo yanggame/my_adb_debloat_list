@@ -3,7 +3,6 @@ pm uninstall -k --user 0 com.android.backupconfirm
 pm uninstall -k --user 0 com.android.bookmarkprovider
 pm uninstall -k --user 0 com.android.carrierdefaultapp
 pm uninstall -k --user 0 com.android.companiondevicemanager
-pm uninstall -k --user 0 com.android.defcontainer
 pm uninstall -k --user 0 com.android.egg
 pm uninstall -k --user 0 com.android.gallery3d
 pm uninstall -k --user 0 com.android.hotwordenrollment.okgoogle
