@@ -74,3 +74,14 @@ pm uninstall --user 0 com.ses.entitlement.o2
 pm uninstall --user 0 com.wapi.wapicertmanage
 pm uninstall --user 0 net.oneplus.weather
 pm uninstall --user 0 net.oneplus.weather.service
+pm uninstall --user 0 com.coloros.relax
+pm uninstall --user 0 com.oplus.onetrace
+pm uninstall --user 0 com.oplus.nas
+pm uninstall --user 0 com.oplus.virtualcomm
+pm uninstall --user 0 com.qti.dcf
+pm uninstall --user 0 com.oplus.eid
+pm uninstall --user 0 com.oplus.melody
+pm uninstall --user 0 com.oplus.metis
+pm uninstall --user 0 com.oplus.viewtalk
+pm uninstall --user 0 com.oplus.ocloud
+pm uninstall --user 0 com.oplus.nhs

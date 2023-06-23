@@ -1,0 +1,12 @@
+2023-06-23 Android 13.1 list added
+com.coloros.relax
+com.oplus.onetrace
+com.oplus.nas
+com.oplus.virtualcomm
+com.qti.dcf
+com.oplus.eid
+com.oplus.melody
+com.oplus.metis
+com.oplus.viewtalk
+com.oplus.ocloud
+com.oplus.nhs

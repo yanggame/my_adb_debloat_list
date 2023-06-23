@@ -74,4 +74,15 @@ adb shell cmd package install-existing com.ses.entitlement.o2
 adb shell cmd package install-existing com.wapi.wapicertmanage
 adb shell cmd package install-existing net.oneplus.weather
 adb shell cmd package install-existing net.oneplus.weather.service
+adb shell cmd package install-existing com.coloros.relax
+adb shell cmd package install-existing com.oplus.onetrace
+adb shell cmd package install-existing com.oplus.nas
+adb shell cmd package install-existing com.oplus.virtualcomm
+adb shell cmd package install-existing com.qti.dcf
+adb shell cmd package install-existing com.oplus.eid
+adb shell cmd package install-existing com.oplus.melody
+adb shell cmd package install-existing com.oplus.metis
+adb shell cmd package install-existing com.oplus.viewtalk
+adb shell cmd package install-existing com.oplus.ocloud
+adb shell cmd package install-existing com.oplus.nhs
 pause

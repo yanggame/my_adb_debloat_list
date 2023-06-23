@@ -74,4 +74,15 @@ adb shell pm uninstall --user 0 com.ses.entitlement.o2
 adb shell pm uninstall --user 0 com.wapi.wapicertmanage
 adb shell pm uninstall --user 0 net.oneplus.weather
 adb shell pm uninstall --user 0 net.oneplus.weather.service
+adb shell pm uninstall --user 0 com.coloros.relax
+adb shell pm uninstall --user 0 com.oplus.onetrace
+adb shell pm uninstall --user 0 com.oplus.nas
+adb shell pm uninstall --user 0 com.oplus.virtualcomm
+adb shell pm uninstall --user 0 com.qti.dcf
+adb shell pm uninstall --user 0 com.oplus.eid
+adb shell pm uninstall --user 0 com.oplus.melody
+adb shell pm uninstall --user 0 com.oplus.metis
+adb shell pm uninstall --user 0 com.oplus.viewtalk
+adb shell pm uninstall --user 0 com.oplus.ocloud
+adb shell pm uninstall --user 0 com.oplus.nhs
 pause
