@@ -1,2 +1,23 @@
+2023-07-27 A13
+added
+com.sec.android.app.setupwizard
+com.wssyncmldm
+com.samsung.android.app.omcagent
+com.samsung.android.scpm
+com.sec.app.RilErrorNotifier
+com.samsung.android.game.gos
+com.samsung.android.authfw
+com.ironsrc.aura.tmo
+com.test.LTEfunctionality
+com.tmobile.pr.adapt
+com.tmobile.dm.cm
+com.tmobile.dm.ms.services
+com.samsung.android.kgclient
+com.samsung.android.mobileservice
+com.android.stk
+com.android.stk2
+com.samsung.android.app.galaxyfinder
+com.samsung.android.visionintelligence
+
 2023-07-26 A13
 Test build.
