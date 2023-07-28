@@ -12,7 +12,8 @@ adb shell pm uninstall --user 0 com.android.bookmarkprovider
 adb shell pm uninstall --user 0 com.android.carrierdefaultapp
 @echo google
 adb shell pm uninstall --user 0 com.google.android.setupwizard
-
+adb shell pm uninstall --user 0 com.google.android.apps.restore
+adb shell pm uninstall --user 0 com.google.android.apps.turbo
 @echo samsung
 adb shell pm uninstall --user 0 com.samsung.android.ardrawing
 adb shell pm uninstall --user 0 com.samsung.android.aremoji
@@ -36,9 +37,17 @@ adb shell pm uninstall --user 0 com.samsung.android.mdecservice
 adb shell pm uninstall --user 0 com.samsung.android.app.clipboardedge
 adb shell pm uninstall --user 0 com.samsung.clipboardsaveservice
 adb shell pm uninstall --user 0 android.autoinstalls.config.samsung
+adb shell pm uninstall --user 0 com.samsung.android.mcfds
+adb shell pm uninstall --user 0 com.samsung.android.app.camera.sticker.facearavatar.preload
+adb shell pm uninstall --user 0 com.samsung.android.dqagent
+adb shell pm uninstall --user 0 com.sec.android.app.parser
+adb shell pm uninstall --user 0 com.samsung.android.lool
 @echo samsung unsure
 adb shell pm uninstall --user 0 com.samsung.cmh
 adb shell pm uninstall --user 0 com.sec.android.Ccinfo
 adb shell pm uninstall --user 0 com.samsung.android.cidmanager
+adb shell pm uninstall --user 0 com.samsung.android.container
+adb shell pm uninstall --user 0 com.samsung.android.rubin.app
+adb shell pm uninstall --user 0 com.samsung.android.kgclient
 
 pause
