@@ -1,5 +1,9 @@
 2023-07-29 A13
 Reviwed and added apps one by one. Should be stable.
+Bewlow packages can't remove through adb command
+com.samsung.android.themecenter
+com.samsung.android.game.gos
+com.sec.android.sdhms
 2023-07-27 A13
 added
 com.sec.android.app.setupwizard
