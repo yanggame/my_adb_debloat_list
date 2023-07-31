@@ -1,3 +1,20 @@
+2023-07-31 A13
+Fix power saving menu issue.
+To restore, use adb shell cmd package install-existing com.samsung.android.lool command
+Added
+com.samsung.aasaservice
+com.sec.mhs.smarttethering
+com.google.android.gms.supervision
+com.google.android.apps.carrier.carrierwifi
+com.sec.imsservice
+com.sec.samsung.advp.imssettings
+com.samsung.ipservice
+com.google.android.feedback
+com.samsung.android.peripheral.framework
+com.samsung.SMT
+com.samsung.android.samsungpositioning
+com.samsung.android.service.tagservice
+
 2023-07-29 A13
 Reviwed and added apps one by one. Should be stable.
 Bewlow packages can't remove through adb command

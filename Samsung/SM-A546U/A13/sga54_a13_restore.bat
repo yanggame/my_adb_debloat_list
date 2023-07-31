@@ -23,10 +23,13 @@ adb shell cmd package install-existing com.facebook.appmanager
 adb shell cmd package install-existing com.facebook.services
 adb shell cmd package install-existing com.facebook.system
 adb shell cmd package install-existing com.google.android.apps.accessibility.voiceaccess
+adb shell cmd package install-existing com.google.android.apps.carrier.carrierwifi
 adb shell cmd package install-existing com.google.android.apps.restore
 adb shell cmd package install-existing com.google.android.apps.subscriptions.red
 adb shell cmd package install-existing com.google.android.apps.tachyon
 adb shell cmd package install-existing com.google.android.apps.turbo
+adb shell cmd package install-existing com.google.android.feedback
+adb shell cmd package install-existing com.google.android.gms.supervision
 adb shell cmd package install-existing com.google.android.onetimeinitializer
 adb shell cmd package install-existing com.google.android.partnersetup
 adb shell cmd package install-existing com.google.android.printservice.recommendation
@@ -43,6 +46,8 @@ adb shell cmd package install-existing com.monotype.android.font.samsungone
 adb shell cmd package install-existing com.nuance.nmc.sihome.metropcs
 adb shell cmd package install-existing com.osp.app.signin
 adb shell cmd package install-existing com.samsung.InputEventApp
+adb shell cmd package install-existing com.samsung.SMT
+adb shell cmd package install-existing com.samsung.aasaservice
 adb shell cmd package install-existing com.samsung.android.aircommandmanager
 adb shell cmd package install-existing com.samsung.android.allshare.service.mediashare
 adb shell cmd package install-existing com.samsung.android.app.appsedge
@@ -94,7 +99,6 @@ adb shell cmd package install-existing com.samsung.android.knox.containercore
 adb shell cmd package install-existing com.samsung.android.knox.kpecore
 adb shell cmd package install-existing com.samsung.android.knox.pushmanager
 adb shell cmd package install-existing com.samsung.android.location
-adb shell cmd package install-existing com.samsung.android.lool
 adb shell cmd package install-existing com.samsung.android.mcfds
 adb shell cmd package install-existing com.samsung.android.mcfserver
 adb shell cmd package install-existing com.samsung.android.mdecservice
@@ -105,11 +109,13 @@ adb shell cmd package install-existing com.samsung.android.mdx.quickboard
 adb shell cmd package install-existing com.samsung.android.mobileservice
 adb shell cmd package install-existing com.samsung.android.net.wifi.wifiguider
 adb shell cmd package install-existing com.samsung.android.oneconnect
+adb shell cmd package install-existing com.samsung.android.peripheral.framework
 adb shell cmd package install-existing com.samsung.android.privateshare
 adb shell cmd package install-existing com.samsung.android.providers.factory
 adb shell cmd package install-existing com.samsung.android.rubin.app
 adb shell cmd package install-existing com.samsung.android.samsungpass
 adb shell cmd package install-existing com.samsung.android.samsungpassautofill
+adb shell cmd package install-existing com.samsung.android.samsungpositioning
 adb shell cmd package install-existing com.samsung.android.scloud
 adb shell cmd package install-existing com.samsung.android.scpm
 adb shell cmd package install-existing com.samsung.android.scs
@@ -117,6 +123,7 @@ adb shell cmd package install-existing com.samsung.android.scs
 adb shell cmd package install-existing com.samsung.android.server.wifi.mobilewips
 adb shell cmd package install-existing com.samsung.android.service.peoplestripe
 adb shell cmd package install-existing com.samsung.android.service.stplatform
+adb shell cmd package install-existing com.samsung.android.service.tagservice
 adb shell cmd package install-existing com.samsung.android.shortcutbackupservice
 adb shell cmd package install-existing com.samsung.android.singletake.service
 adb shell cmd package install-existing com.samsung.android.smartmirroring
@@ -131,6 +138,7 @@ adb shell cmd package install-existing com.samsung.android.visualars
 adb shell cmd package install-existing com.samsung.clipboardsaveservice
 adb shell cmd package install-existing com.samsung.cmh
 adb shell cmd package install-existing com.samsung.gpuwatchapp
+adb shell cmd package install-existing com.samsung.ipservice
 adb shell cmd package install-existing com.samsung.klmsagent
 adb shell cmd package install-existing com.samsung.oda.service
 adb shell cmd package install-existing com.samsung.safetyinformation
@@ -173,10 +181,13 @@ adb shell cmd package install-existing com.sec.facatfunction
 adb shell cmd package install-existing com.sec.factory.camera
 adb shell cmd package install-existing com.sec.hiddenmenu
 adb shell cmd package install-existing com.sec.imslogger
+adb shell cmd package install-existing com.sec.imsservice
 adb shell cmd package install-existing com.sec.location.nfwlocationprivacy
 adb shell cmd package install-existing com.sec.location.nsflp2
+adb shell cmd package install-existing com.sec.mhs.smarttethering
 adb shell cmd package install-existing com.sec.modem.settings
 adb shell cmd package install-existing com.sec.providers.assisteddialing
+adb shell cmd package install-existing com.sec.samsung.advp.imssettings
 adb shell cmd package install-existing com.sec.samsung.advp.imssettings
 adb shell cmd package install-existing com.sec.spp.push
 adb shell cmd package install-existing com.sec.sprextension

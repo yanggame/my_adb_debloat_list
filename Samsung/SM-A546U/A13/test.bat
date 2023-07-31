@@ -205,4 +205,17 @@ adb shell pm uninstall --user 0 android.auto_generated_rro_vendor__
 adb shell pm uninstall --user 0 com.samsung.android.allshare.service.mediashare
 adb shell pm uninstall --user 0 com.samsung.android.easysetup
 adb shell pm uninstall --user 0 com.samsung.android.beaconmanager
+@echo 0731
+adb shell pm uninstall --user 0 com.samsung.aasaservice
+adb shell pm uninstall --user 0 com.sec.mhs.smarttethering
+adb shell pm uninstall --user 0 com.google.android.gms.supervision
+adb shell pm uninstall --user 0 com.google.android.apps.carrier.carrierwifi
+adb shell pm uninstall --user 0 com.sec.imsservice
+adb shell pm uninstall --user 0 com.sec.samsung.advp.imssettings
+adb shell pm uninstall --user 0 com.samsung.ipservice
+adb shell pm uninstall --user 0 com.google.android.feedback
+adb shell pm uninstall --user 0 com.samsung.android.peripheral.framework
+adb shell pm uninstall --user 0 com.samsung.SMT
+adb shell pm uninstall --user 0 com.samsung.android.samsungpositioning
+adb shell pm uninstall --user 0 com.samsung.android.service.tagservice
 pause
