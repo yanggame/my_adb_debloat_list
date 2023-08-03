@@ -188,7 +188,6 @@ adb shell cmd package install-existing com.sec.mhs.smarttethering
 adb shell cmd package install-existing com.sec.modem.settings
 adb shell cmd package install-existing com.sec.providers.assisteddialing
 adb shell cmd package install-existing com.sec.samsung.advp.imssettings
-adb shell cmd package install-existing com.sec.samsung.advp.imssettings
 adb shell cmd package install-existing com.sec.spp.push
 adb shell cmd package install-existing com.sec.sprextension
 adb shell cmd package install-existing com.sem.factoryapp

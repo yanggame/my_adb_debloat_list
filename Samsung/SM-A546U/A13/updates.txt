@@ -15,6 +15,12 @@ com.samsung.SMT
 com.samsung.android.samsungpositioning
 com.samsung.android.service.tagservice
 
+Bewlow packages can't remove through adb command
+com.samsung.android.themecenter
+com.samsung.android.game.gos
+com.sec.android.sdhms
+com.sec.samsung.advp.imssettings
+
 2023-07-29 A13
 Reviwed and added apps one by one. Should be stable.
 Bewlow packages can't remove through adb command

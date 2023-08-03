@@ -187,8 +187,6 @@ adb shell pm uninstall --user 0 com.sec.location.nsflp2
 adb shell pm uninstall --user 0 com.sec.mhs.smarttethering
 adb shell pm uninstall --user 0 com.sec.modem.settings
 adb shell pm uninstall --user 0 com.sec.providers.assisteddialing
-adb shell pm uninstall --user 0 com.sec.samsung.advp.imssettings
-adb shell pm uninstall --user 0 com.sec.samsung.advp.imssettings
 adb shell pm uninstall --user 0 com.sec.spp.push
 adb shell pm uninstall --user 0 com.sec.sprextension
 adb shell pm uninstall --user 0 com.sem.factoryapp
