@@ -119,7 +119,6 @@ adb shell pm uninstall --user 0 com.samsung.android.samsungpositioning
 adb shell pm uninstall --user 0 com.samsung.android.scloud
 adb shell pm uninstall --user 0 com.samsung.android.scpm
 adb shell pm uninstall --user 0 com.samsung.android.scs
-adb shell pm uninstall --user 0 com.samsung.android.scs
 adb shell pm uninstall --user 0 com.samsung.android.server.wifi.mobilewips
 adb shell pm uninstall --user 0 com.samsung.android.service.peoplestripe
 adb shell pm uninstall --user 0 com.samsung.android.service.stplatform
@@ -148,7 +147,6 @@ adb shell pm uninstall --user 0 com.samsung.slsi.telephony.silentlogging
 adb shell pm uninstall --user 0 com.samsung.storyservice
 adb shell pm uninstall --user 0 com.samsung.ucs.agent.ese
 adb shell pm uninstall --user 0 com.sec.android.CcInfo
-adb shell pm uninstall --user 0 com.sec.android.Ccinfo
 adb shell pm uninstall --user 0 com.sec.android.RilServiceModeApp
 adb shell pm uninstall --user 0 com.sec.android.app.DataCreate
 adb shell pm uninstall --user 0 com.sec.android.app.SecSetupWizard
@@ -181,7 +179,6 @@ adb shell pm uninstall --user 0 com.sec.facatfunction
 adb shell pm uninstall --user 0 com.sec.factory.camera
 adb shell pm uninstall --user 0 com.sec.hiddenmenu
 adb shell pm uninstall --user 0 com.sec.imslogger
-adb shell pm uninstall --user 0 com.sec.imsservice
 adb shell pm uninstall --user 0 com.sec.location.nfwlocationprivacy
 adb shell pm uninstall --user 0 com.sec.location.nsflp2
 adb shell pm uninstall --user 0 com.sec.mhs.smarttethering

@@ -119,7 +119,6 @@ adb shell cmd package install-existing com.samsung.android.samsungpositioning
 adb shell cmd package install-existing com.samsung.android.scloud
 adb shell cmd package install-existing com.samsung.android.scpm
 adb shell cmd package install-existing com.samsung.android.scs
-adb shell cmd package install-existing com.samsung.android.scs
 adb shell cmd package install-existing com.samsung.android.server.wifi.mobilewips
 adb shell cmd package install-existing com.samsung.android.service.peoplestripe
 adb shell cmd package install-existing com.samsung.android.service.stplatform
@@ -148,7 +147,6 @@ adb shell cmd package install-existing com.samsung.slsi.telephony.silentlogging
 adb shell cmd package install-existing com.samsung.storyservice
 adb shell cmd package install-existing com.samsung.ucs.agent.ese
 adb shell cmd package install-existing com.sec.android.CcInfo
-adb shell cmd package install-existing com.sec.android.Ccinfo
 adb shell cmd package install-existing com.sec.android.RilServiceModeApp
 adb shell cmd package install-existing com.sec.android.app.DataCreate
 adb shell cmd package install-existing com.sec.android.app.SecSetupWizard
@@ -181,7 +179,6 @@ adb shell cmd package install-existing com.sec.facatfunction
 adb shell cmd package install-existing com.sec.factory.camera
 adb shell cmd package install-existing com.sec.hiddenmenu
 adb shell cmd package install-existing com.sec.imslogger
-adb shell cmd package install-existing com.sec.imsservice
 adb shell cmd package install-existing com.sec.location.nfwlocationprivacy
 adb shell cmd package install-existing com.sec.location.nsflp2
 adb shell cmd package install-existing com.sec.mhs.smarttethering
