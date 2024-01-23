@@ -14,6 +14,7 @@ adb shell pm uninstall --user 0 com.android.hotwordenrollment.xgoogle
 adb shell pm uninstall --user 0 com.android.htmlviewer
 adb shell pm uninstall --user 0 com.android.managedprovisioning
 adb shell pm uninstall --user 0 com.android.providers.partnerbookmarks
+adb shell pm uninstall --user 0 com.android.rkpdapp
 adb shell pm uninstall --user 0 com.android.stk
 adb shell pm uninstall --user 0 com.android.stk2
 adb shell pm uninstall --user 0 com.android.theme.font.notoserifsource
@@ -30,6 +31,7 @@ adb shell pm uninstall --user 0 com.google.android.apps.tachyon
 adb shell pm uninstall --user 0 com.google.android.apps.turbo
 adb shell pm uninstall --user 0 com.google.android.feedback
 adb shell pm uninstall --user 0 com.google.android.gms.supervision
+adb shell pm uninstall --user 0 com.google.android.healthconnect.controller
 adb shell pm uninstall --user 0 com.google.android.onetimeinitializer
 adb shell pm uninstall --user 0 com.google.android.partnersetup
 adb shell pm uninstall --user 0 com.google.android.printservice.recommendation
@@ -76,8 +78,8 @@ adb shell pm uninstall --user 0 com.samsung.android.beaconmanager
 adb shell pm uninstall --user 0 com.samsung.android.bixby.agent
 adb shell pm uninstall --user 0 com.samsung.android.bixby.wakeup
 adb shell pm uninstall --user 0 com.samsung.android.bixbyvision.framework
+adb shell pm uninstall --user 0 com.samsung.android.callbgprovider
 adb shell pm uninstall --user 0 com.samsung.android.cidmanager
-adb shell pm uninstall --user 0 com.samsung.android.cmfa.framework
 adb shell pm uninstall --user 0 com.samsung.android.coldwalletservice
 adb shell pm uninstall --user 0 com.samsung.android.container
 adb shell pm uninstall --user 0 com.samsung.android.dqagent
@@ -108,9 +110,7 @@ adb shell pm uninstall --user 0 com.samsung.android.mdx.kit
 adb shell pm uninstall --user 0 com.samsung.android.mdx.quickboard
 adb shell pm uninstall --user 0 com.samsung.android.mobileservice
 adb shell pm uninstall --user 0 com.samsung.android.net.wifi.wifiguider
-adb shell pm uninstall --user 0 com.samsung.android.oneconnect
 adb shell pm uninstall --user 0 com.samsung.android.peripheral.framework
-adb shell pm uninstall --user 0 com.samsung.android.privateshare
 adb shell pm uninstall --user 0 com.samsung.android.providers.factory
 adb shell pm uninstall --user 0 com.samsung.android.rubin.app
 adb shell pm uninstall --user 0 com.samsung.android.samsungpass
@@ -134,8 +134,8 @@ adb shell pm uninstall --user 0 com.samsung.android.sume.nn.service
 adb shell pm uninstall --user 0 com.samsung.android.themestore
 adb shell pm uninstall --user 0 com.samsung.android.visionintelligence
 adb shell pm uninstall --user 0 com.samsung.android.visualars
-adb shell pm uninstall --user 0 com.samsung.clipboardsaveservice
 adb shell pm uninstall --user 0 com.samsung.cmh
+adb shell pm uninstall --user 0 com.samsung.crane
 adb shell pm uninstall --user 0 com.samsung.gpuwatchapp
 adb shell pm uninstall --user 0 com.samsung.ipservice
 adb shell pm uninstall --user 0 com.samsung.klmsagent
@@ -151,7 +151,6 @@ adb shell pm uninstall --user 0 com.sec.android.RilServiceModeApp
 adb shell pm uninstall --user 0 com.sec.android.app.DataCreate
 adb shell pm uninstall --user 0 com.sec.android.app.SecSetupWizard
 adb shell pm uninstall --user 0 com.sec.android.app.SetupWizard
-adb shell pm uninstall --user 0 com.sec.android.app.applinker
 adb shell pm uninstall --user 0 com.sec.android.app.billing
 adb shell pm uninstall --user 0 com.sec.android.app.hwmoduletest
 adb shell pm uninstall --user 0 com.sec.android.app.magnifier
@@ -159,19 +158,18 @@ adb shell pm uninstall --user 0 com.sec.android.app.parser
 adb shell pm uninstall --user 0 com.sec.android.app.quicktool
 adb shell pm uninstall --user 0 com.sec.android.app.samsungapps
 adb shell pm uninstall --user 0 com.sec.android.app.servicemodeapp
-adb shell pm uninstall --user 0 com.sec.android.app.setupwizard
 adb shell pm uninstall --user 0 com.sec.android.app.setupwizardlegalprovider
 adb shell pm uninstall --user 0 com.sec.android.app.volumemonitorprovider
 adb shell pm uninstall --user 0 com.sec.android.app.wlantest
 adb shell pm uninstall --user 0 com.sec.android.autodoodle.service
 adb shell pm uninstall --user 0 com.sec.android.diagmonagent
+adb shell pm uninstall --user 0 com.sec.android.easyMover
 adb shell pm uninstall --user 0 com.sec.android.easyMover.Agent
 adb shell pm uninstall --user 0 com.sec.android.mimage.avatarstickers
 adb shell pm uninstall --user 0 com.sec.android.provider.badge
 adb shell pm uninstall --user 0 com.sec.android.sdhms
 adb shell pm uninstall --user 0 com.sec.android.soagent
 adb shell pm uninstall --user 0 com.sec.app.RilErrorNotifier
-adb shell pm uninstall --user 0 com.sec.enterprise.knox.attestation
 adb shell pm uninstall --user 0 com.sec.enterprise.knox.cloudmdm.smdms
 adb shell pm uninstall --user 0 com.sec.enterprise.mdm.services.simpin
 adb shell pm uninstall --user 0 com.sec.epdgtestapp
