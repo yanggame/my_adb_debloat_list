@@ -2,6 +2,7 @@ adb shell pm uninstall --user 0 android.auto_generated_rro_product__
 adb shell pm uninstall --user 0 android.auto_generated_rro_vendor__
 adb shell pm uninstall --user 0 android.autoinstalls.config.samsung
 adb shell pm uninstall --user 0 com.android.backupconfirm
+adb shell pm uninstall --user 0 com.android.bips
 adb shell pm uninstall --user 0 com.android.bookmarkprovider
 adb shell pm uninstall --user 0 com.android.carrierdefaultapp
 adb shell pm uninstall --user 0 com.android.cts.ctsshim
@@ -13,6 +14,7 @@ adb shell pm uninstall --user 0 com.android.hotwordenrollment.okgoogle
 adb shell pm uninstall --user 0 com.android.hotwordenrollment.xgoogle
 adb shell pm uninstall --user 0 com.android.htmlviewer
 adb shell pm uninstall --user 0 com.android.managedprovisioning
+adb shell pm uninstall --user 0 com.android.printspooler
 adb shell pm uninstall --user 0 com.android.providers.partnerbookmarks
 adb shell pm uninstall --user 0 com.android.rkpdapp
 adb shell pm uninstall --user 0 com.android.stk
@@ -90,6 +92,7 @@ adb shell pm uninstall --user 0 com.samsung.android.fmm
 adb shell pm uninstall --user 0 com.samsung.android.forest
 adb shell pm uninstall --user 0 com.samsung.android.game.gamehome
 adb shell pm uninstall --user 0 com.samsung.android.game.gametools
+adb shell pm uninstall --user 0 com.samsung.android.game.gos
 adb shell pm uninstall --user 0 com.samsung.android.gru
 adb shell pm uninstall --user 0 com.samsung.android.hdmapp
 adb shell pm uninstall --user 0 com.samsung.android.inputshare
@@ -134,6 +137,7 @@ adb shell pm uninstall --user 0 com.samsung.android.sume.nn.service
 adb shell pm uninstall --user 0 com.samsung.android.themestore
 adb shell pm uninstall --user 0 com.samsung.android.visionintelligence
 adb shell pm uninstall --user 0 com.samsung.android.visualars
+adb shell pm uninstall --user 0 com.samsung.android.widget.pictureframe
 adb shell pm uninstall --user 0 com.samsung.cmh
 adb shell pm uninstall --user 0 com.samsung.crane
 adb shell pm uninstall --user 0 com.samsung.gpuwatchapp
@@ -142,6 +146,7 @@ adb shell pm uninstall --user 0 com.samsung.klmsagent
 adb shell pm uninstall --user 0 com.samsung.oda.service
 adb shell pm uninstall --user 0 com.samsung.safetyinformation
 adb shell pm uninstall --user 0 com.samsung.sait.sohservice
+adb shell pm uninstall --user 0 com.samsung.sdm
 adb shell pm uninstall --user 0 com.samsung.sec.android.teegris.tui_service
 adb shell pm uninstall --user 0 com.samsung.slsi.telephony.silentlogging
 adb shell pm uninstall --user 0 com.samsung.storyservice
@@ -150,6 +155,7 @@ adb shell pm uninstall --user 0 com.sec.android.CcInfo
 adb shell pm uninstall --user 0 com.sec.android.RilServiceModeApp
 adb shell pm uninstall --user 0 com.sec.android.app.DataCreate
 adb shell pm uninstall --user 0 com.sec.android.app.SecSetupWizard
+adb shell pm uninstall --user 0 com.sec.android.app.SetupWizard
 adb shell pm uninstall --user 0 com.sec.android.app.SetupWizard
 adb shell pm uninstall --user 0 com.sec.android.app.billing
 adb shell pm uninstall --user 0 com.sec.android.app.hwmoduletest
@@ -186,6 +192,7 @@ adb shell pm uninstall --user 0 com.sec.spp.push
 adb shell pm uninstall --user 0 com.sec.sprextension
 adb shell pm uninstall --user 0 com.sem.factoryapp
 adb shell pm uninstall --user 0 com.skms.android.agent
+adb shell pm uninstall --user 0 com.snap.camerakit.plugin.v1
 adb shell pm uninstall --user 0 com.test.LTEfunctionality
 adb shell pm uninstall --user 0 com.tmobile.dm.cm
 adb shell pm uninstall --user 0 com.tmobile.dm.ms.services

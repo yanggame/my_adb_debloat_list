@@ -2,6 +2,7 @@ adb shell cmd package install-existing --user 0 android.auto_generated_rro_produ
 adb shell cmd package install-existing --user 0 android.auto_generated_rro_vendor__
 adb shell cmd package install-existing --user 0 android.autoinstalls.config.samsung
 adb shell cmd package install-existing --user 0 com.android.backupconfirm
+adb shell cmd package install-existing --user 0 com.android.bips
 adb shell cmd package install-existing --user 0 com.android.bookmarkprovider
 adb shell cmd package install-existing --user 0 com.android.carrierdefaultapp
 adb shell cmd package install-existing --user 0 com.android.cts.ctsshim
@@ -13,6 +14,7 @@ adb shell cmd package install-existing --user 0 com.android.hotwordenrollment.ok
 adb shell cmd package install-existing --user 0 com.android.hotwordenrollment.xgoogle
 adb shell cmd package install-existing --user 0 com.android.htmlviewer
 adb shell cmd package install-existing --user 0 com.android.managedprovisioning
+adb shell cmd package install-existing --user 0 com.android.printspooler
 adb shell cmd package install-existing --user 0 com.android.providers.partnerbookmarks
 adb shell cmd package install-existing --user 0 com.android.rkpdapp
 adb shell cmd package install-existing --user 0 com.android.stk
@@ -90,6 +92,7 @@ adb shell cmd package install-existing --user 0 com.samsung.android.fmm
 adb shell cmd package install-existing --user 0 com.samsung.android.forest
 adb shell cmd package install-existing --user 0 com.samsung.android.game.gamehome
 adb shell cmd package install-existing --user 0 com.samsung.android.game.gametools
+adb shell cmd package install-existing --user 0 com.samsung.android.game.gos
 adb shell cmd package install-existing --user 0 com.samsung.android.gru
 adb shell cmd package install-existing --user 0 com.samsung.android.hdmapp
 adb shell cmd package install-existing --user 0 com.samsung.android.inputshare
@@ -134,6 +137,7 @@ adb shell cmd package install-existing --user 0 com.samsung.android.sume.nn.serv
 adb shell cmd package install-existing --user 0 com.samsung.android.themestore
 adb shell cmd package install-existing --user 0 com.samsung.android.visionintelligence
 adb shell cmd package install-existing --user 0 com.samsung.android.visualars
+adb shell cmd package install-existing --user 0 com.samsung.android.widget.pictureframe
 adb shell cmd package install-existing --user 0 com.samsung.cmh
 adb shell cmd package install-existing --user 0 com.samsung.crane
 adb shell cmd package install-existing --user 0 com.samsung.gpuwatchapp
@@ -142,6 +146,7 @@ adb shell cmd package install-existing --user 0 com.samsung.klmsagent
 adb shell cmd package install-existing --user 0 com.samsung.oda.service
 adb shell cmd package install-existing --user 0 com.samsung.safetyinformation
 adb shell cmd package install-existing --user 0 com.samsung.sait.sohservice
+adb shell cmd package install-existing --user 0 com.samsung.sdm
 adb shell cmd package install-existing --user 0 com.samsung.sec.android.teegris.tui_service
 adb shell cmd package install-existing --user 0 com.samsung.slsi.telephony.silentlogging
 adb shell cmd package install-existing --user 0 com.samsung.storyservice
@@ -158,6 +163,7 @@ adb shell cmd package install-existing --user 0 com.sec.android.app.parser
 adb shell cmd package install-existing --user 0 com.sec.android.app.quicktool
 adb shell cmd package install-existing --user 0 com.sec.android.app.samsungapps
 adb shell cmd package install-existing --user 0 com.sec.android.app.servicemodeapp
+adb shell cmd package install-existing --user 0 com.sec.android.app.setupwizard
 adb shell cmd package install-existing --user 0 com.sec.android.app.setupwizardlegalprovider
 adb shell cmd package install-existing --user 0 com.sec.android.app.volumemonitorprovider
 adb shell cmd package install-existing --user 0 com.sec.android.app.wlantest
@@ -186,6 +192,7 @@ adb shell cmd package install-existing --user 0 com.sec.spp.push
 adb shell cmd package install-existing --user 0 com.sec.sprextension
 adb shell cmd package install-existing --user 0 com.sem.factoryapp
 adb shell cmd package install-existing --user 0 com.skms.android.agent
+adb shell cmd package install-existing --user 0 com.snap.camerakit.plugin.v1
 adb shell cmd package install-existing --user 0 com.test.LTEfunctionality
 adb shell cmd package install-existing --user 0 com.tmobile.dm.cm
 adb shell cmd package install-existing --user 0 com.tmobile.dm.ms.services
