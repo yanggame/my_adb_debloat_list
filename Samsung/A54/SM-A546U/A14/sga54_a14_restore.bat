@@ -87,6 +87,7 @@ adb shell cmd package install-existing --user 0 com.samsung.android.container
 adb shell cmd package install-existing --user 0 com.samsung.android.dqagent
 adb shell cmd package install-existing --user 0 com.samsung.android.dsms
 adb shell cmd package install-existing --user 0 com.samsung.android.easysetup
+adb shell cmd package install-existing --user 0 com.samsung.android.emergency
 adb shell cmd package install-existing --user 0 com.samsung.android.fast
 adb shell cmd package install-existing --user 0 com.samsung.android.fmm
 adb shell cmd package install-existing --user 0 com.samsung.android.forest
@@ -115,6 +116,7 @@ adb shell cmd package install-existing --user 0 com.samsung.android.mobileservic
 adb shell cmd package install-existing --user 0 com.samsung.android.net.wifi.wifiguider
 adb shell cmd package install-existing --user 0 com.samsung.android.peripheral.framework
 adb shell cmd package install-existing --user 0 com.samsung.android.providers.factory
+adb shell cmd package install-existing --user 0 com.samsung.android.rampart
 adb shell cmd package install-existing --user 0 com.samsung.android.rubin.app
 adb shell cmd package install-existing --user 0 com.samsung.android.samsungpass
 adb shell cmd package install-existing --user 0 com.samsung.android.samsungpassautofill
@@ -161,6 +163,7 @@ adb shell cmd package install-existing --user 0 com.sec.android.app.hwmoduletest
 adb shell cmd package install-existing --user 0 com.sec.android.app.magnifier
 adb shell cmd package install-existing --user 0 com.sec.android.app.parser
 adb shell cmd package install-existing --user 0 com.sec.android.app.quicktool
+adb shell cmd package install-existing --user 0 com.sec.android.app.safetyassurance
 adb shell cmd package install-existing --user 0 com.sec.android.app.samsungapps
 adb shell cmd package install-existing --user 0 com.sec.android.app.servicemodeapp
 adb shell cmd package install-existing --user 0 com.sec.android.app.setupwizard

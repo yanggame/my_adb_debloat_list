@@ -87,6 +87,7 @@ adb shell pm uninstall --user 0 com.samsung.android.container
 adb shell pm uninstall --user 0 com.samsung.android.dqagent
 adb shell pm uninstall --user 0 com.samsung.android.dsms
 adb shell pm uninstall --user 0 com.samsung.android.easysetup
+adb shell pm uninstall --user 0 com.samsung.android.emergency
 adb shell pm uninstall --user 0 com.samsung.android.fast
 adb shell pm uninstall --user 0 com.samsung.android.fmm
 adb shell pm uninstall --user 0 com.samsung.android.forest
@@ -115,6 +116,7 @@ adb shell pm uninstall --user 0 com.samsung.android.mobileservice
 adb shell pm uninstall --user 0 com.samsung.android.net.wifi.wifiguider
 adb shell pm uninstall --user 0 com.samsung.android.peripheral.framework
 adb shell pm uninstall --user 0 com.samsung.android.providers.factory
+adb shell pm uninstall --user 0 com.samsung.android.rampart
 adb shell pm uninstall --user 0 com.samsung.android.rubin.app
 adb shell pm uninstall --user 0 com.samsung.android.samsungpass
 adb shell pm uninstall --user 0 com.samsung.android.samsungpassautofill
@@ -162,6 +164,7 @@ adb shell pm uninstall --user 0 com.sec.android.app.hwmoduletest
 adb shell pm uninstall --user 0 com.sec.android.app.magnifier
 adb shell pm uninstall --user 0 com.sec.android.app.parser
 adb shell pm uninstall --user 0 com.sec.android.app.quicktool
+adb shell pm uninstall --user 0 com.sec.android.app.safetyassurance
 adb shell pm uninstall --user 0 com.sec.android.app.samsungapps
 adb shell pm uninstall --user 0 com.sec.android.app.servicemodeapp
 adb shell pm uninstall --user 0 com.sec.android.app.setupwizardlegalprovider
