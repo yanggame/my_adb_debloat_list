@@ -64,7 +64,6 @@ adb shell cmd package install-existing --user 0 com.samsung.android.app.parental
 adb shell cmd package install-existing --user 0 com.samsung.android.app.reminder
 adb shell cmd package install-existing --user 0 com.samsung.android.app.routines
 adb shell cmd package install-existing --user 0 com.samsung.android.app.settings.bixby
-adb shell cmd package install-existing --user 0 com.samsung.android.app.sharelive
 adb shell cmd package install-existing --user 0 com.samsung.android.app.taskedge
 adb shell cmd package install-existing --user 0 com.samsung.android.app.updatecenter
 adb shell cmd package install-existing --user 0 com.samsung.android.app.watchmanagerstub
@@ -74,7 +73,6 @@ adb shell cmd package install-existing --user 0 com.samsung.android.aremoji
 adb shell cmd package install-existing --user 0 com.samsung.android.aremojieditor
 adb shell cmd package install-existing --user 0 com.samsung.android.audiomirroring
 adb shell cmd package install-existing --user 0 com.samsung.android.authfw
-adb shell cmd package install-existing --user 0 com.samsung.android.aware.service
 adb shell cmd package install-existing --user 0 com.samsung.android.bbc.bbcagent
 adb shell cmd package install-existing --user 0 com.samsung.android.beaconmanager
 adb shell cmd package install-existing --user 0 com.samsung.android.bixby.agent
@@ -109,9 +107,6 @@ adb shell cmd package install-existing --user 0 com.samsung.android.mcfds
 adb shell cmd package install-existing --user 0 com.samsung.android.mcfserver
 adb shell cmd package install-existing --user 0 com.samsung.android.mdecservice
 adb shell cmd package install-existing --user 0 com.samsung.android.mdm
-adb shell cmd package install-existing --user 0 com.samsung.android.mdx
-adb shell cmd package install-existing --user 0 com.samsung.android.mdx.kit
-adb shell cmd package install-existing --user 0 com.samsung.android.mdx.quickboard
 adb shell cmd package install-existing --user 0 com.samsung.android.mobileservice
 adb shell cmd package install-existing --user 0 com.samsung.android.net.wifi.wifiguider
 adb shell cmd package install-existing --user 0 com.samsung.android.peripheral.framework
@@ -172,6 +167,7 @@ adb shell cmd package install-existing --user 0 com.sec.android.app.volumemonito
 adb shell cmd package install-existing --user 0 com.sec.android.app.wlantest
 adb shell cmd package install-existing --user 0 com.sec.android.autodoodle.service
 adb shell cmd package install-existing --user 0 com.sec.android.diagmonagent
+adb shell cmd package install-existing --user 0 com.sec.android.easyMover
 adb shell cmd package install-existing --user 0 com.sec.android.easyMover
 adb shell cmd package install-existing --user 0 com.sec.android.easyMover.Agent
 adb shell cmd package install-existing --user 0 com.sec.android.mimage.avatarstickers

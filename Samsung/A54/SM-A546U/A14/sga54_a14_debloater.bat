@@ -64,7 +64,6 @@ adb shell pm uninstall --user 0 com.samsung.android.app.parentalcare
 adb shell pm uninstall --user 0 com.samsung.android.app.reminder
 adb shell pm uninstall --user 0 com.samsung.android.app.routines
 adb shell pm uninstall --user 0 com.samsung.android.app.settings.bixby
-adb shell pm uninstall --user 0 com.samsung.android.app.sharelive
 adb shell pm uninstall --user 0 com.samsung.android.app.taskedge
 adb shell pm uninstall --user 0 com.samsung.android.app.updatecenter
 adb shell pm uninstall --user 0 com.samsung.android.app.watchmanagerstub
@@ -74,7 +73,6 @@ adb shell pm uninstall --user 0 com.samsung.android.aremoji
 adb shell pm uninstall --user 0 com.samsung.android.aremojieditor
 adb shell pm uninstall --user 0 com.samsung.android.audiomirroring
 adb shell pm uninstall --user 0 com.samsung.android.authfw
-adb shell pm uninstall --user 0 com.samsung.android.aware.service
 adb shell pm uninstall --user 0 com.samsung.android.bbc.bbcagent
 adb shell pm uninstall --user 0 com.samsung.android.beaconmanager
 adb shell pm uninstall --user 0 com.samsung.android.bixby.agent
@@ -109,9 +107,6 @@ adb shell pm uninstall --user 0 com.samsung.android.mcfds
 adb shell pm uninstall --user 0 com.samsung.android.mcfserver
 adb shell pm uninstall --user 0 com.samsung.android.mdecservice
 adb shell pm uninstall --user 0 com.samsung.android.mdm
-adb shell pm uninstall --user 0 com.samsung.android.mdx
-adb shell pm uninstall --user 0 com.samsung.android.mdx.kit
-adb shell pm uninstall --user 0 com.samsung.android.mdx.quickboard
 adb shell pm uninstall --user 0 com.samsung.android.mobileservice
 adb shell pm uninstall --user 0 com.samsung.android.net.wifi.wifiguider
 adb shell pm uninstall --user 0 com.samsung.android.peripheral.framework
@@ -172,6 +167,7 @@ adb shell pm uninstall --user 0 com.sec.android.app.volumemonitorprovider
 adb shell pm uninstall --user 0 com.sec.android.app.wlantest
 adb shell pm uninstall --user 0 com.sec.android.autodoodle.service
 adb shell pm uninstall --user 0 com.sec.android.diagmonagent
+adb shell pm uninstall --user 0 com.sec.android.easyMover
 adb shell pm uninstall --user 0 com.sec.android.easyMover
 adb shell pm uninstall --user 0 com.sec.android.easyMover.Agent
 adb shell pm uninstall --user 0 com.sec.android.mimage.avatarstickers
