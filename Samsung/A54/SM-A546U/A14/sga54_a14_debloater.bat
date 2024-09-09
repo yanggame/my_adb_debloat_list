@@ -27,6 +27,7 @@ adb shell pm uninstall --user 0 com.facebook.services
 adb shell pm uninstall --user 0 com.facebook.system
 adb shell pm uninstall --user 0 com.google.android.apps.accessibility.voiceaccess
 adb shell pm uninstall --user 0 com.google.android.apps.carrier.carrierwifi
+adb shell pm uninstall --user 0 com.google.android.apps.googleassistant
 adb shell pm uninstall --user 0 com.google.android.apps.restore
 adb shell pm uninstall --user 0 com.google.android.apps.subscriptions.red
 adb shell pm uninstall --user 0 com.google.android.apps.tachyon
