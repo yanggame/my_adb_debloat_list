@@ -85,7 +85,6 @@ adb shell pm uninstall --user 0 com.samsung.android.dsms
 adb shell pm uninstall --user 0 com.samsung.android.easysetup
 adb shell pm uninstall --user 0 com.samsung.android.emergency
 adb shell pm uninstall --user 0 com.samsung.android.fast
-adb shell pm uninstall --user 0 com.samsung.android.fmm
 adb shell pm uninstall --user 0 com.samsung.android.forest
 adb shell pm uninstall --user 0 com.samsung.android.game.gamehome
 adb shell pm uninstall --user 0 com.samsung.android.game.gametools

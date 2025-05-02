@@ -85,7 +85,6 @@ adb shell cmd package install-existing --user 0 com.samsung.android.dsms
 adb shell cmd package install-existing --user 0 com.samsung.android.easysetup
 adb shell cmd package install-existing --user 0 com.samsung.android.emergency
 adb shell cmd package install-existing --user 0 com.samsung.android.fast
-adb shell cmd package install-existing --user 0 com.samsung.android.fmm
 adb shell cmd package install-existing --user 0 com.samsung.android.forest
 adb shell cmd package install-existing --user 0 com.samsung.android.game.gamehome
 adb shell cmd package install-existing --user 0 com.samsung.android.game.gametools
